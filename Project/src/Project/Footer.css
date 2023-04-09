@@ -1,0 +1,20 @@
+#footer
+{
+    text-align: center;
+    background-color: black;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  color:white;
+  font-style: italic;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
